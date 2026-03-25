@@ -1,0 +1,289 @@
+﻿placette;fascine;type;espece;ID;numero;longueur touffe;largeur touffe;hauteur max feuille;nombre reprises;inflorescence;date;heure;operateur;remarques
+1;1;;Carex nigra;CN1;1;4,5;3;17;2;non;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN2;2;4;4;18;0;non;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN3;3;6;5,5;21;3;non;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN4;4;4;3,5;16;2;oui;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN5;5;5;2,5;21;1;non;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN6;6;5,5;4;16,5;0;oui;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN7;7;4,5;4;20,5;3;oui;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN8;8;4;2;16;0;non;04/09/2024;NA;Benjamin;
+1;1;;Carex nigra;CN9;9;3,5;2,5;17,5;0;non;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN10;1;6,5;3,5;17;0;non;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN11;2;4;1,5;14;2;non;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN12;3;4;2,5;19,5;0;non;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN13;4;5;3,5;13,5;2;oui;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN14;5;3,5;3;14;3;oui;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN15;6;4;3,5;15,5;2;non;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN16;7;4;3;17,5;4;non;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN17;8;3;3;19;1;non;04/09/2024;NA;Benjamin;
+1;2;;Carex nigra;CN18;9;4,5;2;21;1;non;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA1;1;4;2,5;22,5;6;oui;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA2;2;3;3;23;4;oui;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA3;3;2,5;4;23,5;2;non;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA4;4;4;2;16,5;3;non;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA5;5;2,5;1,5;16;1;non;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA6;6;3;2;20;2;non;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA7;7;2;2;19;2;oui;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA8;8;3;2;17;4;non;04/09/2024;NA;Benjamin;
+2;1;;Eriophorum angustifolium;EA9;9;2;1,5;23,5;1;non;04/09/2024;NA;Benjamin;
+2;2;;Eriophorum angustifolium;EA10;1;3;1,5;17,5;0;oui;04/09/2024;NA;Benjamin;
+2;2;;Eriophorum angustifolium;EA11;2;3;2,5;20;3;oui;04/09/2024;NA;Benjamin;
+2;2;;Eriophorum angustifolium;EA12;3;2,5;1,5;22;4;non;04/09/2024;NA;Benjamin;
+2;2;;Eriophorum angustifolium;EA13;4;4;3,5;18;3;oui;04/09/2024;NA;Benjamin;carex uniquement
+2;2;;Eriophorum angustifolium;EA14;5;4,5;2,5;16,5;3;oui;04/09/2024;NA;Benjamin;carex uniquement
+2;2;;Eriophorum angustifolium;EA15;6;3;3;22;1;oui;04/09/2024;NA;Benjamin;
+2;2;;Eriophorum angustifolium;EA16;7;4,5;3;28;0;non;04/09/2024;NA;Benjamin;mélange Erio-Carex
+2;2;;Eriophorum angustifolium;EA17;8;0,5;0,5;11;2;oui;04/09/2024;NA;Benjamin;
+2;2;;Eriophorum angustifolium;EA18;9;3,5;3;24;1;non;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN19;1;4;1;15,5;0;non;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN20;2;2;1,5;14;3;non;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN21;3;3;2,5;16,5;3;oui;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN22;4;5;3,5;14,5;5;oui;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN23;5;2;1;17;2;non;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN24;6;5;3,5;23;4;oui;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN25;7;3,5;3,5;17;1;non;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN26;8;1,5;1;14;3;non;04/09/2024;NA;Benjamin;
+3;1;;Carex nigra;CN27;9;4;4,5;13;2;non;04/09/2024;NA;Benjamin;
+3;2;;Carex nigra;CN28;1;4,5;3;15;1;non;04/09/2024;NA;Benjamin;
+3;2;;Carex nigra;CN29;2;3;1;18;2;non;04/09/2024;NA;Benjamin;
+3;2;;Carex nigra;CN30;3;2,5;2;15;3;oui;04/09/2024;NA;Benjamin;stolons
+3;2;;Carex nigra;CN31;4;2,5;1;22;0;non;04/09/2024;NA;Benjamin;
+3;2;;Carex nigra;CN32;5;4;4,5;14,5;4;oui;04/09/2024;NA;Benjamin;autre inflo
+3;2;;Carex nigra;CN33;6;4;1,5;19;1;oui;04/09/2024;NA;Benjamin;
+3;2;;Carex nigra;CN34;7;3;2,5;19;2;non;04/09/2024;NA;Benjamin;
+3;2;;Carex nigra;CN35;8;2,5;2;20;7;non;04/09/2024;NA;Benjamin;mélange Erio-Carex
+3;2;;Carex nigra;CN36;9;3,5;1,5;25;0;non;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA19;1;3,5;2,5;21;3;oui;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA20;2;2,5;2;18;0;oui;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA21;3;3;2;23,5;2;non;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA22;4;3;2,5;19,5;3;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+4;1;;Eriophorum angustifolium;EA23;5;2;2;30,5;4;non;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA24;6;2,5;2;25,5;1;non;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA25;7;4;3;26;5;oui;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA26;8;4;2;23,5;1;oui;04/09/2024;NA;Benjamin;
+4;1;;Eriophorum angustifolium;EA27;9;2,5;2;20;0;oui;04/09/2024;NA;Benjamin;
+4;2;;Eriophorum angustifolium;EA28;1;2;2;20;1;oui;04/09/2024;NA;Benjamin;réhaussée
+4;2;;Eriophorum angustifolium;EA29;2;4;4;22;3;oui;04/09/2024;NA;Benjamin;
+4;2;;Eriophorum angustifolium;EA30;3;2;2;17;2;oui;04/09/2024;NA;Benjamin;
+4;2;;Eriophorum angustifolium;EA31;4;3;2,5;25;6;oui;04/09/2024;NA;Benjamin;
+4;2;;Eriophorum angustifolium;EA32;5;2,5;3;26,5;2;oui;04/09/2024;NA;Benjamin;
+4;2;;Eriophorum angustifolium;EA33;6;0,5;0,5;13;1;non;04/09/2024;NA;Benjamin;
+4;2;;Eriophorum angustifolium;EA34;7;5;4,5;26,5;0;oui;04/09/2024;NA;Benjamin;carex uniquement
+4;2;;Eriophorum angustifolium;EA35;8;2,5;2,5;20;0;oui;04/09/2024;NA;Benjamin;réhaussée
+4;2;;Eriophorum angustifolium;EA36;9;2;1;14;0;oui;04/09/2024;NA;Benjamin;réhaussée
+5;1;;Carex nigra;CN37;1;3;1,5;16;1;oui;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN38;2;3;2,5;14,5;1;non;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN39;3;5;3,5;15;0;non;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN40;4;4,5;3,5;11;1;non;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN41;5;4;3;15,5;2;oui;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN42;6;4;3,5;15;0;oui;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN43;7;5,5;4;13,5;2;non;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN44;8;2,5;1;16;0;non;04/09/2024;NA;Benjamin;
+5;1;;Carex nigra;CN45;9;4;2,5;20,5;0;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN46;1;4,5;2;14;1;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN47;2;6,5;4;17;2;non;04/09/2024;NA;Benjamin;stolons
+5;2;;Carex nigra;CN48;3;4;2,5;16;2;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN49;4;2,5;2;12,5;0;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN50;5;2;2;15,5;0;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN51;6;3,5;3;19,5;1;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN52;7;1;1;17;2;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN53;8;5,5;3,5;21;1;non;04/09/2024;NA;Benjamin;
+5;2;;Carex nigra;CN54;9;2,5;1,5;10;1;non;04/09/2024;NA;Benjamin;
+6;1;;Eriophorum angustifolium;EA37;1;4,5;3,5;22,5;3;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+6;1;;Eriophorum angustifolium;EA38;2;5,5;2;24;1;non;04/09/2024;NA;Benjamin;
+6;1;;Eriophorum angustifolium;EA39;3;3;1,5;21;2;oui;04/09/2024;NA;Benjamin;
+6;1;;Eriophorum angustifolium;EA40;4;4;2;26,5;5;oui;04/09/2024;NA;Benjamin;
+6;1;;Eriophorum angustifolium;EA41;5;4,5;4;23;2;oui;04/09/2024;NA;Benjamin;mélange Erio-Carex
+6;1;;Eriophorum angustifolium;EA42;6;2,5;3,5;29;6;non;04/09/2024;NA;Benjamin;
+6;1;;Eriophorum angustifolium;EA43;7;4;3;29;2;oui;04/09/2024;NA;Benjamin;
+6;1;;Eriophorum angustifolium;EA44;8;1,5;1,5;22,5;0;non;04/09/2024;NA;Benjamin;
+6;1;;Eriophorum angustifolium;EA45;9;1;1;27;4;non;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA46;1;1,5;2;21,5;2;oui;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA47;2;4,5;2,5;25;2;oui;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA48;3;1,5;1;21,5;0;non;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA49;4;4;3;23,5;0;non;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA50;5;2,5;3;28,5;4;oui;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA51;6;4;2,5;30,5;4;non;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA52;7;2;1,5;0;0;oui;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA53;8;2,5;2;24,5;0;non;04/09/2024;NA;Benjamin;
+6;2;;Eriophorum angustifolium;EA54;9;2,5;2;23;2;non;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN55;1;3,5;3,5;17;3;non;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN56;2;2;1;17;2;non;04/09/2024;NA;Benjamin;stolons
+7;1;;Carex nigra;CN57;3;2;2,5;14;3;oui;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN58;4;2;2;14;0;non;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN59;5;3,5;2,5;18,5;1;non;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN60;6;2;2;16,5;3;oui;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN61;7;5;3,5;18;2;non;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN62;8;5;3,5;17;3;non;04/09/2024;NA;Benjamin;
+7;1;;Carex nigra;CN63;9;3,5;2,5;11,5;2;non;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN64;1;4,5;4;22;0;non;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN65;2;1,5;1,5;12;3;non;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN66;3;3;2;15;2;non;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN67;4;4;2,5;17;1;non;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN68;5;4,5;3,5;14,5;2;oui;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN69;6;5;5;17;0;oui;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN70;7;5;4;20;0;non;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN71;8;3;2;18;2;non;04/09/2024;NA;Benjamin;
+7;2;;Carex nigra;CN72;9;5;2;21,5;0;oui;04/09/2024;NA;Benjamin;
+8;1;;Eriophorum angustifolium;EA55;1;2,5;2;21,5;2;non;04/09/2024;NA;Benjamin;
+8;1;;Eriophorum angustifolium;EA56;2;0,5;0,5;12;2;oui;04/09/2024;NA;Benjamin;
+8;1;;Eriophorum angustifolium;EA57;3;2;1,5;18;0;oui;04/09/2024;NA;Benjamin;
+8;1;;Eriophorum angustifolium;EA58;4;5;4;25;1;oui;04/09/2024;NA;Benjamin;mélange Erio-Carex
+8;1;;Eriophorum angustifolium;EA59;5;6,5;3,5;20;4;oui;04/09/2024;NA;Benjamin;mélange Erio-Carex
+8;1;;Eriophorum angustifolium;EA60;6;3,5;2,5;22;0;oui;04/09/2024;NA;Benjamin;
+8;1;;Eriophorum angustifolium;EA61;7;4,5;2,5;29,5;2;oui;04/09/2024;NA;Benjamin;
+8;1;;Eriophorum angustifolium;EA62;8;4;3;24;4;oui;04/09/2024;NA;Benjamin;
+8;1;;Eriophorum angustifolium;EA63;9;4;3;27;2;oui;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA64;1;4,5;3;26;2;oui;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA65;2;3,5;2,5;19;3;oui;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA66;3;2,5;2;19,5;2;oui;04/09/2024;NA;Benjamin;stolons
+8;2;;Eriophorum angustifolium;EA67;4;4;2;20,5;2;non;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA68;5;4;2,5;23;2;non;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA69;6;1,5;2;17;6;non;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA70;7;5,5;3;21,5;1;oui;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA71;8;3;3;19,5;1;non;04/09/2024;NA;Benjamin;
+8;2;;Eriophorum angustifolium;EA72;9;4;3;22;2;oui;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN73;1;4,5;4;17;1;non;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN74;2;1;0,5;14;1;non;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN75;3;3,5;2,5;19;1;oui;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN76;4;3,5;2,5;14;0;non;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN77;5;4;3;17;3;oui;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN78;6;4;5;21,5;0;non;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN79;7;4;3,5;18;2;non;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN80;8;5;3,5;19;0;oui;04/09/2024;NA;Benjamin;
+9;1;;Carex nigra;CN81;9;3;1;16;2;oui;04/09/2024;NA;Benjamin;
+9;2;;Carex nigra;CN82;1;4;3,5;14,5;0;non;04/09/2024;NA;Benjamin;
+9;2;;Carex nigra;CN83;2;3,5;1;14;0;non;04/09/2024;NA;Benjamin;stolons
+9;2;;Carex nigra;CN84;3;5;4,5;19,5;1;oui;04/09/2024;NA;Benjamin;
+9;2;;Carex nigra;CN85;4;0;0;16;1;non;04/09/2024;NA;Benjamin;La hauteur max est celle d’une reprise
+9;2;;Carex nigra;CN86;5;5;4,5;16,5;2;non;04/09/2024;NA;Benjamin;
+9;2;;Carex nigra;CN87;6;4;3;18,5;3;non;04/09/2024;NA;Benjamin;
+9;2;;Carex nigra;CN88;7;4,5;3,5;17;0;non;04/09/2024;NA;Benjamin;
+9;2;;Carex nigra;CN89;8;5;4;14,5;2;non;04/09/2024;NA;Benjamin;
+9;2;;Carex nigra;CN90;9;3;3;13;0;non;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA73;1;3,5;2,5;20;6;non;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA74;2;3;2;17;2;non;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA75;3;3;2,5;25;5;non;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA76;4;4;3;22,5;5;oui;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA77;5;3;3;21;4;oui;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA78;6;3;3;17,5;0;non;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA79;7;3;2;22;1;oui;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA80;8;3,5;2;21;3;oui;04/09/2024;NA;Benjamin;
+10;1;;Eriophorum angustifolium;EA81;9;3,5;2;24;5;non;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA82;1;2,5;2;17;1;oui;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA83;2;4,5;5;21;3;non;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA84;3;5;2,5;25;6;non;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA85;4;5;3,5;30;4;oui;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA86;5;3;2,5;17;4;oui;04/09/2024;NA;Benjamin;mélange Erio-Carex
+10;2;;Eriophorum angustifolium;EA87;6;2,5;2;24;1;oui;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA88;7;2,5;2;26;5;oui;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA89;8;2,5;2;15;0;oui;04/09/2024;NA;Benjamin;
+10;2;;Eriophorum angustifolium;EA90;9;4;4;23;2;non;04/09/2024;NA;Benjamin;carex uniquement avec inflo
+11;1;;Carex nigra;CN91;1;5;5;20;2;oui;04/09/2024;NA;Benjamin;
+11;1;;Carex nigra;CN92;2;5;3;20;0;oui;04/09/2024;NA;Benjamin;
+11;1;;Carex nigra;CN93;3;5;3;21,5;3;non;04/09/2024;NA;Benjamin;
+11;1;;Carex nigra;CN94;4;3;2;18;3;non;04/09/2024;NA;Benjamin;stolons
+11;1;;Carex nigra;CN95;5;6,5;3,5;20,5;3;non;04/09/2024;NA;Benjamin;
+11;1;;Carex nigra;CN96;6;3,5;3;15,5;2;non;04/09/2024;NA;Benjamin;
+11;1;;Carex nigra;CN97;7;4;3,5;21,5;0;non;04/09/2024;NA;Benjamin;
+11;1;;Carex nigra;CN98;8;2,5;2;16;1;non;04/09/2024;NA;Benjamin;
+11;1;;Carex nigra;CN99;9;4,5;3;18;1;non;04/09/2024;NA;Benjamin;
+11;2;;Carex nigra;CN100;1;2,5;3;29;0;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN101;2;2;0,5;11;0;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN102;3;2;0,5;17,5;1;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN103;4;1,5;2;23;1;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN104;5;3;1;24;0;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN105;6;2;1,5;24;0;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN106;7;3;2;28;0;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN107;8;0,5;0,5;20;0;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+11;2;;Carex nigra;CN108;9;0,5;0,5;14;0;non;04/09/2024;NA;Benjamin;réhaussée, fascine très immergée
+12;1;;Eriophorum angustifolium;EA91;1;3;3;26;4;non;04/09/2024;NA;Benjamin;
+12;1;;Eriophorum angustifolium;EA92;2;5;2;12,5;3;non;04/09/2024;NA;Benjamin;
+12;1;;Eriophorum angustifolium;EA93;3;0,5;0,5;0;0;non;04/09/2024;NA;Benjamin;mort ?
+12;1;;Eriophorum angustifolium;EA94;4;4,5;3;20,5;2;oui;04/09/2024;NA;Benjamin;
+12;1;;Eriophorum angustifolium;EA95;5;1,5;1,5;25;1;non;04/09/2024;NA;Benjamin;
+12;1;;Eriophorum angustifolium;EA96;6;2,5;2;14,5;1;oui;04/09/2024;NA;Benjamin;carex uniquement, stolons
+12;1;;Eriophorum angustifolium;EA97;7;2;2;27,5;3;non;04/09/2024;NA;Benjamin;
+12;1;;Eriophorum angustifolium;EA98;8;2;3;22,5;0;non;04/09/2024;NA;Benjamin;
+12;1;;Eriophorum angustifolium;EA99;9;2,5;2,5;21;1;oui;04/09/2024;NA;Benjamin;
+12;2;;Eriophorum angustifolium;EA100;1;4;3;26;3;non;04/09/2024;NA;Benjamin;
+12;2;;Eriophorum angustifolium;EA101;2;4;2,5;26;5;non;04/09/2024;NA;Benjamin;
+12;2;;Eriophorum angustifolium;EA102;3;4;3;29;2;non;04/09/2024;NA;Benjamin;
+12;2;;Eriophorum angustifolium;EA103;4;5,5;2,5;21,5;4;non;04/09/2024;NA;Benjamin;
+12;2;;Eriophorum angustifolium;EA104;5;3,5;4;25;2;oui;04/09/2024;NA;Benjamin;mélange Erio-Carex
+12;2;;Eriophorum angustifolium;EA105;6;5;3;23,5;3;oui;04/09/2024;NA;Benjamin;stolons
+12;2;;Eriophorum angustifolium;EA106;7;5;4;19,5;0;oui;04/09/2024;NA;Benjamin;
+12;2;;Eriophorum angustifolium;EA107;8;3,5;3;25;1;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+12;2;;Eriophorum angustifolium;EA108;9;0,5;0,5;8;0;oui;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN109;1;6;4;23;0;non;04/09/2024;NA;Benjamin;réhaussée
+13;1;;Carex nigra;CN110;2;5;4;17,5;0;oui;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN111;3;4;3;19,5;0;oui;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN112;4;3;2,5;16;1;oui;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN113;5;4,5;4;18,5;0;non;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN114;6;3,5;3,5;21,5;1;non;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN115;7;4,5;4,5;15,5;2;non;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN116;8;4;3,5;19;0;oui;04/09/2024;NA;Benjamin;
+13;1;;Carex nigra;CN117;9;4;2;15;0;non;04/09/2024;NA;Benjamin;
+13;2;;Carex nigra;CN118;1;4;4;24;0;non;04/09/2024;NA;Benjamin;réhaussée
+13;2;;Carex nigra;CN119;2;3,5;3;20,5;0;non;04/09/2024;NA;Benjamin;stolons
+13;2;;Carex nigra;CN120;3;3;1,5;23;0;non;04/09/2024;NA;Benjamin;
+13;2;;Carex nigra;CN121;4;4;2,5;14;1;non;04/09/2024;NA;Benjamin;
+13;2;;Carex nigra;CN122;5;3,5;2;18;1;non;04/09/2024;NA;Benjamin;
+13;2;;Carex nigra;CN123;6;5,5;5;22;2;non;04/09/2024;NA;Benjamin;
+13;2;;Carex nigra;CN124;7;2,5;1,5;14,5;1;non;04/09/2024;NA;Benjamin;
+13;2;;Carex nigra;CN125;8;2,5;1,5;19;0;oui;04/09/2024;NA;Benjamin;
+13;2;;Carex nigra;CN126;9;3,5;3;17,5;0;oui;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA109;1;4;4;25;2;non;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA110;2;3;2,5;21;2;non;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA111;3;3;2;22;4;oui;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA112;4;2,5;2,5;22,5;5;non;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA113;5;4,5;4;22,5;2;non;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA114;6;4;3;21,5;3;oui;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA115;7;4;2,5;20;6;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+14;1;;Eriophorum angustifolium;EA116;8;3,5;2,5;30;3;oui;04/09/2024;NA;Benjamin;
+14;1;;Eriophorum angustifolium;EA117;9;3,5;1,5;15,5;2;oui;04/09/2024;NA;Benjamin;
+14;2;;Eriophorum angustifolium;EA118;1;3,5;4;30;2;oui;04/09/2024;NA;Benjamin;
+14;2;;Eriophorum angustifolium;EA119;2;6;4;16;3;oui;04/09/2024;NA;Benjamin;
+14;2;;Eriophorum angustifolium;EA120;3;4;3,5;26;1;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+14;2;;Eriophorum angustifolium;EA121;4;5;4;27,5;2;oui;04/09/2024;NA;Benjamin;
+14;2;;Eriophorum angustifolium;EA122;5;2,5;3;19;1;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+14;2;;Eriophorum angustifolium;EA123;6;1,5;1,5;18;0;non;04/09/2024;NA;Benjamin;
+14;2;;Eriophorum angustifolium;EA124;7;3;2;23;0;non;04/09/2024;NA;Benjamin;carex uniquement avec inflo
+14;2;;Eriophorum angustifolium;EA125;8;3,5;3;27;2;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+14;2;;Eriophorum angustifolium;EA126;9;6;6;28;1;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN127;1;5;4;15;2;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN128;2;7;4,5;15,5;3;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN129;3;5,5;6;21,5;0;oui;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN130;4;6;3;12,5;3;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN131;5;2,5;2;10;0;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN132;6;3;2,5;16;0;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN133;7;5;3;12;0;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN134;8;0,5;0,5;16,5;0;non;04/09/2024;NA;Benjamin;
+15;1;;Carex nigra;CN135;9;6;5;17,5;2;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN136;1;4;3;22;0;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN137;2;0;0;0;0;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN138;3;3,5;4;15;0;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN139;4;5;4;14;0;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN140;5;4;2;15,5;0;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN141;6;5;2,5;13,5;2;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN142;7;4;4;20,5;4;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN143;8;3;1,5;17,5;0;non;04/09/2024;NA;Benjamin;
+15;2;;Carex nigra;CN144;9;6,5;3;26;0;non;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA127;1;3,5;2;23;0;non;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+16;1;;Eriophorum angustifolium;EA128;2;1,5;1,5;18;1;non;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA129;3;1,5;1;18,5;3;non;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA130;4;3,5;2;18;4;oui;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA131;5;4;4;22;3;non;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA132;6;2;1,5;21;5;non;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA133;7;2;2;23;3;non;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA134;8;4;2,5;16,5;1;oui;04/09/2024;NA;Benjamin;
+16;1;;Eriophorum angustifolium;EA135;9;4;3,5;24;1;oui;04/09/2024;NA;Benjamin;
+16;2;;Eriophorum angustifolium;EA136;1;2,5;2;19;0;oui;04/09/2024;NA;Benjamin;"mélange Erio-Carex ; inflo carex"
+16;2;;Eriophorum angustifolium;EA137;2;2,5;3,5;17;1;non;04/09/2024;NA;Benjamin;carex uniquement avec inflo
+16;2;;Eriophorum angustifolium;EA138;3;1,5;1,5;15,5;1;oui;04/09/2024;NA;Benjamin;
+16;2;;Eriophorum angustifolium;EA139;4;2;2;17;1;non;04/09/2024;NA;Benjamin;
+16;2;;Eriophorum angustifolium;EA140;5;2,5;2;24;1;oui;04/09/2024;NA;Benjamin;
+16;2;;Eriophorum angustifolium;EA141;6;5;4,5;18;0;non;04/09/2024;NA;Benjamin;carex uniquement avec inflo
+16;2;;Eriophorum angustifolium;EA142;7;2;2,5;21;2;oui;04/09/2024;NA;Benjamin;
+16;2;;Eriophorum angustifolium;EA143;8;0;0;0;0;non;04/09/2024;NA;Benjamin;
+16;2;;Eriophorum angustifolium;EA144;9;0;0;0;0;non;04/09/2024;NA;Benjamin;

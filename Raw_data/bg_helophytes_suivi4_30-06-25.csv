@@ -1,0 +1,289 @@
+﻿placette;fascine;type;espece;ID;numero;longueur touffe;largeur touffe;hauteur max feuille;nombre reprises;inflorescence;date;heure;operateur;remarques
+1;1;;Carex nigra;CN1;1;2;1;9;6;non;30/06/2025;13:30;BG + FA;Touffe quasi morte
+1;1;;Carex nigra;CN2;2;4;4;13;4;oui;30/06/2025;NA;BG + FA;Florent à fait tous les nombres de reprises
+1;1;;Carex nigra;CN3;3;5,5;5;16;5;oui;30/06/2025;NA;BG + FA;
+1;1;;Carex nigra;CN4;4;5,5;5;9,5;6;oui;30/06/2025;NA;BG + FA;
+1;1;;Carex nigra;CN5;5;6;4;18;7;non;30/06/2025;NA;BG + FA;
+1;1;;Carex nigra;CN6;6;6;4,5;12;2;oui;30/06/2025;NA;BG + FA;
+1;1;;Carex nigra;CN7;7;4;3,5;13;3;oui;30/06/2025;NA;BG + FA;
+1;1;;Carex nigra;CN8;8;3,5;3;10,5;1;non;30/06/2025;NA;BG + FA;
+1;1;;Carex nigra;CN9;9;3,5;3;12;2;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN10;1;4;3;10;0;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN11;2;2;2;11;5;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN12;3;3,5;2,5;16,5;0;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN13;4;3;2,5;13;4;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN14;5;5;4;13;2;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN15;6;4;3,5;15;2;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN16;7;5,5;4;14,5;3;non;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN17;8;3,5;4;13,5;1;oui;30/06/2025;NA;BG + FA;
+1;2;;Carex nigra;CN18;9;4,5;2;12;2;oui;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA1;1;4;2,5;15;9;oui;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA2;2;3;3,5;17;5;oui;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA3;3;4;3;13,5;6;oui;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA4;4;3;2;12;7;non;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA5;5;2;1,5;10,5;3;oui;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA6;6;1,5;1,5;12;4;oui;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA7;7;3;1,5;12;4;non;30/06/2025;NA;BG + FA;
+2;1;;Eriophorum angustifolium;EA8;8;5;4;13;4;non;30/06/2025;NA;BG + FA;"inflo carex ; melange ério-carex"
+2;1;;Eriophorum angustifolium;EA9;9;1,5;1,5;11;3;oui;30/06/2025;NA;BG + FA;
+2;2;;Eriophorum angustifolium;EA10;1;2;2,5;11,5;5;non;30/06/2025;NA;BG + FA;
+2;2;;Eriophorum angustifolium;EA11;2;3,5;3;14,5;7;oui;30/06/2025;NA;BG + FA;
+2;2;;Eriophorum angustifolium;EA12;3;2,5;1,5;13,5;4;oui;30/06/2025;NA;BG + FA;
+2;2;;Eriophorum angustifolium;EA13;4;5,5;5;15,5;7;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+2;2;;Eriophorum angustifolium;EA14;5;5,5;3;12;7;non;30/06/2025;NA;BG + FA;"inflo carex ; carex uniquement"
+2;2;;Eriophorum angustifolium;EA15;6;4,5;3;14,5;2;oui;30/06/2025;NA;BG + FA;
+2;2;;Eriophorum angustifolium;EA16;7;5;2,5;15,5;3;oui;30/06/2025;NA;BG + FA;melange
+2;2;;Eriophorum angustifolium;EA17;8;2;2;15;5;non;30/06/2025;NA;BG + FA;
+2;2;;Eriophorum angustifolium;EA18;9;3;2;12,5;3;non;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN19;1;4;2,5;11;2;oui;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN20;2;3,5;2;10,5;2;oui;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN21;3;3;4;14;4;oui;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN22;4;5;4,5;15;6;oui;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN23;5;6;3,5;15;1;oui;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN24;6;4,5;4;15,5;1;oui;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN25;7;5;3,5;14;1;oui;30/06/2025;NA;BG + FA;germination poaceae 
+3;1;;Carex nigra;CN26;8;4,5;2,5;12,5;2;oui;30/06/2025;NA;BG + FA;
+3;1;;Carex nigra;CN27;9;4,5;4;11,5;3;non;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN28;1;5;2,5;12;1;oui;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN29;2;3;3;11;4;oui;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN30;3;3,5;2,5;15;2;oui;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN31;4;2;2;17,5;0;oui;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN32;5;5;5;14,5;3;oui;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN33;6;3;3;13;2;oui;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN34;7;4;4;17;4;oui;30/06/2025;NA;BG + FA;
+3;2;;Carex nigra;CN35;8;4;3;13,5;10;oui;30/06/2025;NA;BG + FA;"inflo eriophorum ; melange"
+3;2;;Carex nigra;CN36;9;0;0;0;0;non;30/06/2025;NA;BG + FA;morte
+4;1;;Eriophorum angustifolium;EA19;1;2,5;2,5;13,5;3;non;30/06/2025;NA;BG + FA;
+4;1;;Eriophorum angustifolium;EA20;2;3;2,5;13,5;4;non;30/06/2025;NA;BG + FA;
+4;1;;Eriophorum angustifolium;EA21;3;3;1,5;12,5;8;oui;30/06/2025;NA;BG + FA;
+4;1;;Eriophorum angustifolium;EA22;4;6;3,5;17;5;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+4;1;;Eriophorum angustifolium;EA23;5;3;2;19,5;4;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange autre carex"
+4;1;;Eriophorum angustifolium;EA24;6;3;3;18;3;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+4;1;;Eriophorum angustifolium;EA25;7;4;4;17;11;oui;30/06/2025;NA;BG + FA;
+4;1;;Eriophorum angustifolium;EA26;8;4;3,5;19,5;5;oui;30/06/2025;NA;BG + FA;
+4;1;;Eriophorum angustifolium;EA27;9;3;2;17,5;4;non;30/06/2025;NA;BG + FA;
+4;2;;Eriophorum angustifolium;EA28;1;0;0;0;3;non;30/06/2025;NA;BG + FA;
+4;2;;Eriophorum angustifolium;EA29;2;3,5;3;17;6;oui;30/06/2025;NA;BG + FA;
+4;2;;Eriophorum angustifolium;EA30;3;2;1;13,5;3;oui;30/06/2025;NA;BG + FA;
+4;2;;Eriophorum angustifolium;EA31;4;4,5;3;16,5;1;oui;30/06/2025;NA;BG + FA;melange
+4;2;;Eriophorum angustifolium;EA32;5;3;2;14,5;4;oui;30/06/2025;NA;BG + FA;
+4;2;;Eriophorum angustifolium;EA33;6;1;1;12;4;non;30/06/2025;NA;BG + FA;carex uniquement
+4;2;;Eriophorum angustifolium;EA34;7;5;3,5;15;5;non;30/06/2025;NA;BG + FA;inflo carex
+4;2;;Eriophorum angustifolium;EA35;8;2,5;2;19;1;non;30/06/2025;NA;BG + FA;
+4;2;;Eriophorum angustifolium;EA36;9;2,5;1,5;10;2;non;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN37;1;2,5;1,5;14;0;oui;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN38;2;5;3,5;14,5;1;non;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN39;3;5,5;3,5;12;0;oui;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN40;4;6;5;14;1;oui;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN41;5;5;4;12,5;2;oui;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN42;6;5,5;4,5;15;0;oui;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN43;7;6;5,5;14;2;oui;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN44;8;1,5;1;9,5;1;oui;30/06/2025;NA;BG + FA;
+5;1;;Carex nigra;CN45;9;4;4;12;5;non;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN46;1;4,5;3;15;1;non;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN47;2;7;5;14,5;1;oui;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN48;3;5;3,5;10;1;oui;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN49;4;3,5;3;13,5;1;oui;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN50;5;3;1,5;12;1;oui;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN51;6;3,5;3;15,5;3;oui;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN52;7;2,5;1;9;2;oui;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN53;8;5;3;15;3;oui;30/06/2025;NA;BG + FA;
+5;2;;Carex nigra;CN54;9;2;1;12;1;oui;30/06/2025;NA;BG + FA;
+6;1;;Eriophorum angustifolium;EA37;1;4,5;2,5;14;3;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+6;1;;Eriophorum angustifolium;EA38;2;4;2,5;13;6;oui;30/06/2025;NA;BG + FA;
+6;1;;Eriophorum angustifolium;EA39;3;4;2;12;4;non;30/06/2025;NA;BG + FA;
+6;1;;Eriophorum angustifolium;EA40;4;3,5;2;13;11;oui;30/06/2025;NA;BG + FA;
+6;1;;Eriophorum angustifolium;EA41;5;4,5;4;20;7;oui;30/06/2025;NA;BG + FA;melange
+6;1;;Eriophorum angustifolium;EA42;6;5;4;16;2;non;30/06/2025;NA;BG + FA;
+6;1;;Eriophorum angustifolium;EA43;7;3;3;20,5;4;oui;30/06/2025;NA;BG + FA;
+6;1;;Eriophorum angustifolium;EA44;8;1;1;17,5;1;oui;30/06/2025;NA;BG + FA;
+6;1;;Eriophorum angustifolium;EA45;9;2,5;1;14;6;non;30/06/2025;NA;BG + FA;
+6;2;;Eriophorum angustifolium;EA46;1;2,5;2;13;5;oui;30/06/2025;NA;BG + FA;
+6;2;;Eriophorum angustifolium;EA47;2;6;3;17,5;1;oui;30/06/2025;NA;BG + FA;
+6;2;;Eriophorum angustifolium;EA48;3;4;1;12;1;oui;30/06/2025;NA;BG + FA;
+6;2;;Eriophorum angustifolium;EA49;4;4;3;19;3;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+6;2;;Eriophorum angustifolium;EA50;5;3;2;15,5;9;oui;30/06/2025;NA;BG + FA;
+6;2;;Eriophorum angustifolium;EA51;6;3,5;3;15;5;oui;30/06/2025;NA;BG + FA;
+6;2;;Eriophorum angustifolium;EA52;7;0;0;0;0;non;30/06/2025;NA;BG + FA;morte
+6;2;;Eriophorum angustifolium;EA53;8;3;2,5;12;1;oui;30/06/2025;NA;BG + FA;
+6;2;;Eriophorum angustifolium;EA54;9;4;2;14;5;non;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN55;1;4,5;3;8;3;non;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN56;2;3;1,5;10;3;oui;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN57;3;3;2;10;2;oui;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN58;4;2,5;2;8,5;1;non;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN59;5;2,5;2;10,5;3;oui;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN60;6;2;1,5;8,5;3;oui;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN61;7;5;3;13,5;4;oui;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN62;8;5;3,5;12,5;6;oui;30/06/2025;NA;BG + FA;
+7;1;;Carex nigra;CN63;9;4;3;9;2;non;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN64;1;5;4,5;10,5;1;oui;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN65;2;1;1;8,5;0;non;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN66;3;3;3;6,5;2;oui;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN67;4;4;3;11;2;oui;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN68;5;4;3;14;1;oui;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN69;6;4;3,5;11;0;oui;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN70;7;5;4;12;0;oui;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN71;8;2,5;2,5;10;4;oui;30/06/2025;NA;BG + FA;
+7;2;;Carex nigra;CN72;9;3,5;2,5;12;3;oui;30/06/2025;NA;BG + FA;
+8;1;;Eriophorum angustifolium;EA55;1;2;1,5;17;4;oui;30/06/2025;NA;BG + FA;
+8;1;;Eriophorum angustifolium;EA56;2;2,5;1,5;11;2;non;30/06/2025;NA;BG + FA;
+8;1;;Eriophorum angustifolium;EA57;3;2;1;15;3;non;30/06/2025;NA;BG + FA;
+8;1;;Eriophorum angustifolium;EA58;4;4;3,5;17,5;2;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+8;1;;Eriophorum angustifolium;EA59;5;6;4;12,5;6;non;30/06/2025;NA;BG + FA;"inflo carex ; carex uniquement"
+8;1;;Eriophorum angustifolium;EA60;6;2;1;13,5;4;oui;30/06/2025;NA;BG + FA;
+8;1;;Eriophorum angustifolium;EA61;7;4;4;17;5;non;30/06/2025;NA;BG + FA;
+8;1;;Eriophorum angustifolium;EA62;8;3;2;14;8;oui;30/06/2025;NA;BG + FA;
+8;1;;Eriophorum angustifolium;EA63;9;5;3;17;4;non;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA64;1;3;1,5;15;5;oui;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA65;2;4,5;3;14;4;oui;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA66;3;3;2;12;3;non;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA67;4;3;2,5;15;7;oui;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA68;5;4;3;18;6;oui;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA69;6;2;1,5;10;6;non;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA70;7;3,5;2,5;17;5;non;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA71;8;2;1;13;5;non;30/06/2025;NA;BG + FA;
+8;2;;Eriophorum angustifolium;EA72;9;3;2,5;17,5;4;non;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN73;1;5;3;12;2;oui;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN74;2;1,5;1,5;9,5;1;non;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN75;3;4,5;4,5;14;0;oui;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN76;4;3,5;3;10;1;non;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN77;5;4;2;13;5;oui;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN78;6;5,5;3,5;18;0;oui;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN79;7;3,5;3,5;11,5;3;oui;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN80;8;4,5;4;14;1;oui;30/06/2025;NA;BG + FA;
+9;1;;Carex nigra;CN81;9;2;1,5;10;2;non;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN82;1;3;2,5;12;0;non;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN83;2;3;2;13;1;non;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN84;3;4,5;4;16;1;oui;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN85;4;0;0;0;2;non;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN86;5;6;4;15;5;oui;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN87;6;3,5;3;13;2;oui;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN88;7;3;2,5;13;0;oui;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN89;8;4,5;3,5;10;7;oui;30/06/2025;NA;BG + FA;
+9;2;;Carex nigra;CN90;9;3,5;2,5;9;2;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA73;1;3;2;9;7;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA74;2;2,5;2;14,5;5;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA75;3;3;3;13,5;5;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA76;4;4,5;3;14,5;7;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA77;5;3,5;2;16,5;8;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA78;6;3,5;3;13;3;non;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA79;7;2,5;2;11,5;4;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA80;8;3;1,5;13;6;oui;30/06/2025;NA;BG + FA;
+10;1;;Eriophorum angustifolium;EA81;9;2,5;1;13;6;oui;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA82;1;2,5;2,5;16;3;non;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA83;2;3;2,5;12;4;oui;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA84;3;4,5;1,5;13;7;oui;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA85;4;3,5;3,5;17;5;oui;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA86;5;3,5;2,5;15;6;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+10;2;;Eriophorum angustifolium;EA87;6;2;2;13,5;3;oui;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA88;7;3;3;15;4;oui;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA89;8;2;1,5;12;0;non;30/06/2025;NA;BG + FA;
+10;2;;Eriophorum angustifolium;EA90;9;4;3;15,5;5;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+11;1;;Carex nigra;CN91;1;4;3,5;11,5;1;oui;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN92;2;4,5;3;13;4;oui;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN93;3;4;2,5;17;7;non;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN94;4;2;2;13;6;oui;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN95;5;5;3;13;9;oui;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN96;6;3;2,5;12;7;oui;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN97;7;2,5;2;14;3;oui;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN98;8;1,5;1,5;12;1;oui;30/06/2025;NA;BG + FA;
+11;1;;Carex nigra;CN99;9;3;2,5;19;2;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN100;1;1;0,5;10;0;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN101;2;0;0;0;0;non;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN102;3;2,5;1,5;14,5;0;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN103;4;2;1,5;16;0;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN104;5;1,5;1;10,5;0;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN105;6;2,5;1,5;11,5;1;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN106;7;2,5;2;13;0;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN107;8;0,5;0,5;8,5;0;oui;30/06/2025;NA;BG + FA;
+11;2;;Carex nigra;CN108;9;0,5;0,5;5,5;0;non;30/06/2025;NA;BG + FA;
+12;1;;Eriophorum angustifolium;EA91;1;4,5;3;17,5;6;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+12;1;;Eriophorum angustifolium;EA92;2;5;4;13;3;non;30/06/2025;NA;BG + FA;
+12;1;;Eriophorum angustifolium;EA93;3;1,5;1;18;0;non;30/06/2025;NA;BG + FA;
+12;1;;Eriophorum angustifolium;EA94;4;4;3;15,5;5;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+12;1;;Eriophorum angustifolium;EA95;5;1;1;12,5;3;oui;30/06/2025;NA;BG + FA;
+12;1;;Eriophorum angustifolium;EA96;6;1,5;1;13,5;5;non;30/06/2025;NA;BG + FA;
+12;1;;Eriophorum angustifolium;EA97;7;2;1;13,5;3;oui;30/06/2025;NA;BG + FA;
+12;1;;Eriophorum angustifolium;EA98;8;2;1,5;14;1;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+12;1;;Eriophorum angustifolium;EA99;9;2;1,5;13;4;non;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA100;1;3;3;15;9;oui;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA101;2;3,5;3;15,5;12;oui;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA102;3;3,5;2,5;16;1;oui;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA103;4;3;2;14;5;oui;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA104;5;6;4;12;3;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+12;2;;Eriophorum angustifolium;EA105;6;4;3;14;6;oui;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA106;7;4;4;17;2;oui;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA107;8;3;2;17;6;non;30/06/2025;NA;BG + FA;
+12;2;;Eriophorum angustifolium;EA108;9;1;1;9;1;non;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN109;1;4,5;3,5;11,5;1;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN110;2;4;3;13;0;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN111;3;3,5;2,5;14;1;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN112;4;2;2;12,5;2;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN113;5;4,5;4;14,5;0;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN114;6;4;3;17;2;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN115;7;4;4;13;3;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN116;8;4;3;10;1;oui;30/06/2025;NA;BG + FA;
+13;1;;Carex nigra;CN117;9;1,5;1;9,5;1;non;30/06/2025;NA;BG + FA;
+13;2;;Carex nigra;CN118;1;0;0;0;0;non;30/06/2025;NA;BG + FA;
+13;2;;Carex nigra;CN119;2;5;4;9,5;0;oui;30/06/2025;NA;BG + FA;
+13;2;;Carex nigra;CN120;3;2;2;10;0;oui;30/06/2025;NA;BG + FA;
+13;2;;Carex nigra;CN121;4;3,5;2;7;0;oui;30/06/2025;NA;BG + FA;
+13;2;;Carex nigra;CN122;5;4,5;2,5;12;3;oui;30/06/2025;NA;BG + FA;reprises eriophorum ?
+13;2;;Carex nigra;CN123;6;5;5;18;3;oui;30/06/2025;NA;BG + FA;reprises eriophorum ?
+13;2;;Carex nigra;CN124;7;2,5;1,5;8,5;3;oui;30/06/2025;NA;BG + FA;
+13;2;;Carex nigra;CN125;8;2,5;1,5;15,5;0;oui;30/06/2025;NA;BG + FA;
+13;2;;Carex nigra;CN126;9;4;2;13,5;0;oui;30/06/2025;NA;BG + FA;
+14;1;;Eriophorum angustifolium;EA109;1;3;2;13;2;oui;30/06/2025;NA;BG + FA;1 grenouille
+14;1;;Eriophorum angustifolium;EA110;2;2,5;2,5;13;7;oui;30/06/2025;NA;BG + FA;
+14;1;;Eriophorum angustifolium;EA111;3;4;3,5;17;6;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;1;;Eriophorum angustifolium;EA112;4;2;2;16;9;oui;30/06/2025;NA;BG + FA;
+14;1;;Eriophorum angustifolium;EA113;5;4;3;14;3;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;1;;Eriophorum angustifolium;EA114;6;4;2;15;5;oui;30/06/2025;NA;BG + FA;
+14;1;;Eriophorum angustifolium;EA115;7;3;3;16,5;4;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;1;;Eriophorum angustifolium;EA116;8;5,5;2,5;17;5;oui;30/06/2025;NA;BG + FA;
+14;1;;Eriophorum angustifolium;EA117;9;2;1,5;12;7;non;30/06/2025;NA;BG + FA;
+14;2;;Eriophorum angustifolium;EA118;1;3;3;11;4;oui;30/06/2025;NA;BG + FA;
+14;2;;Eriophorum angustifolium;EA119;2;5;4;15;4;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;2;;Eriophorum angustifolium;EA120;3;4;3,5;14;8;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;2;;Eriophorum angustifolium;EA121;4;3,5;3,5;16,5;5;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;2;;Eriophorum angustifolium;EA122;5;3;2,5;15;1;non;30/06/2025;NA;BG + FA;"inflo carex ; carex uniquement"
+14;2;;Eriophorum angustifolium;EA123;6;2;1;9,5;4;non;30/06/2025;NA;BG + FA;
+14;2;;Eriophorum angustifolium;EA124;7;3;3;16,5;5;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;2;;Eriophorum angustifolium;EA125;8;3;3;14,5;5;non;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+14;2;;Eriophorum angustifolium;EA126;9;4;3,5;13;3;oui;30/06/2025;NA;BG + FA;"inflo carex ; melange"
+15;1;;Carex nigra;CN127;1;6;3;12;4;oui;30/06/2025;NA;BG + FA;
+15;1;;Carex nigra;CN128;2;7;4;12;3;oui;30/06/2025;NA;BG + FA;
+15;1;;Carex nigra;CN129;3;5;4,5;11;1;oui;30/06/2025;NA;BG + FA;
+15;1;;Carex nigra;CN130;4;4;2,5;11;4;non;30/06/2025;NA;BG + FA;
+15;1;;Carex nigra;CN131;5;5;2,5;11,5;0;non;30/06/2025;NA;BG + FA;melange (avec jonc ?)
+15;1;;Carex nigra;CN132;6;3,5;2;11;1;oui;30/06/2025;NA;BG + FA;
+15;1;;Carex nigra;CN133;7;5;3,5;11;2;oui;30/06/2025;NA;BG + FA;
+15;1;;Carex nigra;CN134;8;0;0;0;2;non;30/06/2025;NA;BG + FA;
+15;1;;Carex nigra;CN135;9;4,5;4;10,5;2;oui;30/06/2025;NA;BG + FA;
+15;2;;Carex nigra;CN136;1;3;3;13,5;0;oui;30/06/2025;NA;BG + FA;
+15;2;;Carex nigra;CN137;2;0;0;0;0;non;30/06/2025;NA;BG + FA;2 tiges de jonc
+15;2;;Carex nigra;CN138;3;4;3,5;15;0;oui;30/06/2025;NA;BG + FA;
+15;2;;Carex nigra;CN139;4;5;3,5;14;0;non;30/06/2025;NA;BG + FA;
+15;2;;Carex nigra;CN140;5;4;2,5;14,5;1;oui;30/06/2025;NA;BG + FA;7 tiges de jonc
+15;2;;Carex nigra;CN141;6;3;3;8,5;5;oui;30/06/2025;NA;BG + FA;
+15;2;;Carex nigra;CN142;7;4;4;15;4;oui;30/06/2025;NA;BG + FA;
+15;2;;Carex nigra;CN143;8;0,5;0,5;11;0;oui;30/06/2025;NA;BG + FA;
+15;2;;Carex nigra;CN144;9;6;0,5;10;3;oui;30/06/2025;NA;BG + FA;
+16;1;;Eriophorum angustifolium;EA127;1;3;2,5;11,5;2;non;30/06/2025;NA;BG + FA;inflo carex, carex uniquement
+16;1;;Eriophorum angustifolium;EA128;2;1,5;1,5;10;6;oui;30/06/2025;NA;BG + FA;
+16;1;;Eriophorum angustifolium;EA129;3;2,5;1,5;11;9;oui;30/06/2025;NA;BG + FA;
+16;1;;Eriophorum angustifolium;EA130;4;3;2,5;13;0;oui;30/06/2025;NA;BG + FA;melange
+16;1;;Eriophorum angustifolium;EA131;5;5;2,5;12;7;oui;30/06/2025;NA;BG + FA;
+16;1;;Eriophorum angustifolium;EA132;6;2;1,5;12,5;8;oui;30/06/2025;NA;BG + FA;
+16;1;;Eriophorum angustifolium;EA133;7;3;2;13,5;3;non;30/06/2025;NA;BG + FA;
+16;1;;Eriophorum angustifolium;EA134;8;6,5;3,5;12;4;non;30/06/2025;NA;BG + FA;
+16;1;;Eriophorum angustifolium;EA135;9;4,5;3;16;2;non;30/06/2025;NA;BG + FA;
+16;2;;Eriophorum angustifolium;EA136;1;0,5;0,5;14;0;non;30/06/2025;NA;BG + FA;carex uniquement
+16;2;;Eriophorum angustifolium;EA137;2;4;3;14;1;non;30/06/2025;NA;BG + FA;inflo carex, carex uniquement
+16;2;;Eriophorum angustifolium;EA138;3;0;0;0;3;non;30/06/2025;NA;BG + FA;
+16;2;;Eriophorum angustifolium;EA139;4;4;2;13,5;7;oui;30/06/2025;NA;BG + FA;
+16;2;;Eriophorum angustifolium;EA140;5;3;1,5;14,5;3;non;30/06/2025;NA;BG + FA;
+16;2;;Eriophorum angustifolium;EA141;6;5;4;16;1;non;30/06/2025;NA;BG + FA;inflo carex, carex uniquement
+16;2;;Eriophorum angustifolium;EA142;7;2;1;13;2;oui;30/06/2025;NA;BG + FA;
+16;2;;Eriophorum angustifolium;EA143;8;1;0,5;9,5;0;non;30/06/2025;NA;BG + FA;
+16;2;;Eriophorum angustifolium;EA144;9;0;0;0;0;non;30/06/2025;NA;BG + FA;

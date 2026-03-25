@@ -1,0 +1,55 @@
+﻿numero PE;date;espece;operateur;commentaire
+7;01/08/24;Carex nigra;MP;
+7;01/08/24;Juncus filiformis;MP;
+2;01/08/24;Carex nigra;MP;
+2;01/08/24;Carex canescens;MP;
+2;01/08/24;Caltha palustris;MP;
+2;01/08/24;Juncus filiformis;MP;
+2;01/08/24;Carex rostrata;MP;
+2;01/08/24;Eriophorum latifolium;MP;
+2;01/08/24;Potamogeton pectinatus;BG;A vérifier
+3;01/08/24;Carex nigra;MP;
+3;01/08/24;Carex rostrata;MP;
+3;01/08/24;Caltha palustris;MP;
+3;01/08/24;Carex flava;MP;
+3;01/08/24;Juncus alpinoarticulatus;MP;
+3;01/08/24;Carex echinata;MP;
+3;01/08/24;Carex frigida;MP;
+3;01/08/24;Trichophorum cespitosum;MP;
+3;01/08/24;Eriophorum angustifolium;MP;
+3;01/08/24;Eriophorum latifolium;MP;
+3;01/08/24;Equisetum variegatum;MP;
+3;01/08/24;Carex davalliana;MP;
+4;01/08/24;Carex nigra;MP;
+4;01/08/24;Stuckenia filiformis;MP + AF + BG + FA;
+4;01/08/24;Rorippa islandica;MP;
+4;01/08/24;Juncus articulatus;MP;cf
+5;01/08/24;Potamogeton berchtoldii;MP + AF + BG + FA;
+5;01/08/24;Carex nigra;MP;
+5;01/08/24;Chara globularis;MP + AF + BG + FA;
+5;01/08/24;Carex rostrata;MP;
+5;01/08/24;Equisetum palustre;MP;
+5;01/08/24;Juncus filiformis;MP;
+1;01/08/24;Juncus filiformis;MP + AF + BG;
+1;01/08/24;Carex nigra;MP + AF + BG;
+1;01/08/24;Sparganium angustifolium;MP + AF + BG + FA;
+1;01/08/24;Caltha palustris;FA;
+8;01/08/24;Carex nigra;MP + AF + BG;
+8;01/08/24;Rorippa islandica;MP + AF + BG;
+8;04/08/25;Rorippa sylvestris;MP + AF + BG;
+8;04/08/25;Tussilago fafara;MP + AF + BG;
+8;04/08/25;Juncus filiformis;MP + AF + BG;
+8;04/08/25;Carex sp.;MP + AF + BG;
+13;01/08/24;Carex nigra;MP;
+13;01/08/24;Eriophorum angustifolium;MP;
+13;01/08/24;Eriophorum latifolium;MP;
+14;01/08/24;Carex nigra;MP + AF + BG;
+14;01/08/24;Caltha palustris;MP;
+14;01/08/24;Eriophorum scheuchzeri;MP + AF + BG;
+14;01/08/24;Eriophorum latifolium;MP;
+14;01/08/24;Eriophorum angustifolium;MP + AF + BG;
+14;01/08/24;Juncus filiformis;MP + AF + BG;
+14;01/08/24;Ranunculus cf trichophyllus subsp. eradicatus;MP + AF + BG;
+14;04/08/25;Sphagnus sp.;AF + BG;
+29;01/08/24;Carex nigra;MP;
+29;01/08/24;Trichophorum sp.;MP;A vérifier
