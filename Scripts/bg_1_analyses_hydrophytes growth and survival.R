@@ -13,8 +13,7 @@ library(tidyr)
 #### Import datasets ####
 #########################
 
-data_path <- "data_path"  # adapt to your project structure (file = "Data for R")
-data_path <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Data for R"  # adapt to your project structure
+data_path <- "data_path"  # adapt to your project structure (file = "Data_for_R")
 
 suivi1 <- read.csv2(paste(data_path,"bg_hydrophytes_suivi 1_juillet 2023.csv",sep="/"),sep=';',dec=",")
 suivi2 <- read.csv2(paste(data_path,"bg_hydrophytes_suivi 2_septembre 2023.csv",sep="/"),sep=';',dec=",")

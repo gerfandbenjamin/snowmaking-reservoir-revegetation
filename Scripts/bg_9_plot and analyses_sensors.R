@@ -20,8 +20,7 @@ library(scales)
 #### Import datasets ####
 #########################
 
-data_path <- "data_path"  # adapt to your project structure
-data_path <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Data for R/Sensors"  # adapt to your project structure
+data_path <- "data_path"  # adapt to your project structure (file = "Data_for_R/Sensors")
 
 sensors <- read.csv2(paste(data_path,"Capteurs_global.csv",sep="/"),sep=',',dec=".")
 

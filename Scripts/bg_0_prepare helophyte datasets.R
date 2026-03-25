@@ -17,8 +17,7 @@ library(tidyverse)
 #### Import monitoring datasets ####
 ####################################
 
-data_path <- "data_path"   # adapt to project structure (file = "Raw data")
-data_path <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Raw data"  # adapt to your project structure
+data_path <- "data_path"   # adapt to project structure (file = "Raw_data")
 
 suivi1 <- read.csv2(paste(data_path,"bg_helophytes_suivi1_02-09-23.csv",sep="/"),sep=";",dec=",")
 suivi2 <- read.csv2(paste(data_path,"bg_helophytes_suivi2_27-06-24.csv",sep="/"),sep=";",dec=",")

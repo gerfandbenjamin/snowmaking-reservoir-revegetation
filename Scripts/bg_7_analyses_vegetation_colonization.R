@@ -12,8 +12,7 @@ library(tidyverse)
 #### Import datasets ####
 #########################
 
-data_path <- "data_path"  # adapt to your project structure
-data_path <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Data for R"  # adapt to your project structure
+data_path <- "data_path"   # adapt to project structure (file = "Data_for_R")
 
 veg_res <- read.csv2(paste(data_path,"bg_List_vegetation_species_reservoir.csv",sep="/"),sep=';',dec=",")
 veg_reg <- read.csv2(paste(data_path,"bg_List_regional_vegetation_species.csv",sep="/"),sep=';',dec=",")

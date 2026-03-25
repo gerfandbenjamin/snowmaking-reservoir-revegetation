@@ -13,8 +13,7 @@ library(rstatix)
 #### Import datasets ####
 #########################
 
-data_path <- "data_path"  # adapt to your project structure (file = "Raw data")
-data_path <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Raw data"  # adapt to your project structure
+data_path <- "data_path"  # adapt to your project structure (file = "Raw_data")
 
 root <- read.csv2(paste(data_path,"bg_helophytes_root_plantations.csv",sep="/"),sep=';',dec=",")
 alti <- read.csv2(paste(data_path,"bg_helophytes_altitude.csv",sep="/"),sep=';',dec=",")

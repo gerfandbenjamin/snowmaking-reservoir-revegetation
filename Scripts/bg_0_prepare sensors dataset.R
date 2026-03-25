@@ -14,8 +14,8 @@ library(tidyverse)
 #########################
 
 # Import and export path
-data_path   <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Raw data/Sensors"
-export_path <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Data for R/Sensors"
+data_path   <- # adapt to your project structure (file = "Raw_data/Sensors")
+export_path <- # adapt to your project structure (file = "Data_for_R/Sensors")
 
 # Create export directory
 dir.create(export_path, showWarnings = FALSE, recursive = TRUE)

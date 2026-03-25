@@ -15,8 +15,7 @@ library(car)
 #### Import datasets ####
 #########################
 
-data_path <- "data_path"  # adapt to your project structure (file = "Data for R")
-data_path <- "D:/Thèse Gerfand/3 - Végétalisation Adret des Tuffes/Article végétalisation berges/Soumission/Ecological engineering/Supplementary material/Data/Data for R"  # adapt to your project structure
+data_path <- "data_path"  # adapt to your project structure (file = "Data_for_R")
 
 suivi <- read.csv2(paste(data_path,"bg_helophytes_spread_dataset.csv",sep="/"),sep=',',dec=".")
 
